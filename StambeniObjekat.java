@@ -17,12 +17,4 @@ public abstract class StambeniObjekat {
 		this.adresa = adresa;
 	}
 	
-
-		
-	
-	
-	
-	
-	
-	//
 }
