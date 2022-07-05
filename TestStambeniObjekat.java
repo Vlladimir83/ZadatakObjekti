@@ -22,51 +22,6 @@ public class TestStambeniObjekat {
 		System.out.println("Povrsina stana je: " + povrsina + " m2 " + "\nBroj stanara je: " + brojStanara);
 	
 	
-		
-		
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	}
 	
