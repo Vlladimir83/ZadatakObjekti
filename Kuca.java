@@ -20,7 +20,7 @@ public class Kuca extends StambeniObjekat {
 		return "Kuca: " + "\nAdresa: " + adresa + "\nPovrsina stana je: " + st1.getPovrsina() + " m2 " + "\nBroj Stanara je: " + st1.getBrojStanara();
 				
 	}
-public void godPorez (double cenaM2 , double povrsina, int brojStanara) {
+	public void godPorez (double cenaM2 , double povrsina, int brojStanara) {
 		
 		double porez = (povrsina * cenaM2);                       // < = 2 stanara
 		System.out.println(porez);
@@ -30,8 +30,4 @@ public void godPorez (double cenaM2 , double povrsina, int brojStanara) {
 	}
 	
 
-
-/*
-
-*/
 }
